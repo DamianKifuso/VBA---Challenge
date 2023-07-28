@@ -1,2 +1,2 @@
-# VBA---Challenge
+# VBA-Challenge
 VBA assignment
